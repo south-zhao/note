@@ -9,5 +9,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="html" />
+    <orderEntry type="module" module-name="boomerang-free-bootstrap-ui-kit-master" />
   </component>
 </module>

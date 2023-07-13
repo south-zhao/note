@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/Downloads/boomerang-free-bootstrap-ui-kit-master/boomerang-free-bootstrap-ui-kit-master/.idea/boomerang-free-bootstrap-ui-kit-master.iml" filepath="$USER_HOME$/Downloads/boomerang-free-bootstrap-ui-kit-master/boomerang-free-bootstrap-ui-kit-master/.idea/boomerang-free-bootstrap-ui-kit-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/../html/.idea/html.iml" filepath="$PROJECT_DIR$/../html/.idea/html.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/note.iml" filepath="$PROJECT_DIR$/.idea/note.iml" />
     </modules>
